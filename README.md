@@ -3,8 +3,8 @@ Synopsis is UCU students' project meant to actualize auto-referring and summariz
 ______________________________________________
 
 Now realized:
-TF-IDF algorithm
-Named-entity recognition
-Images search
-Most frequent bigrams extraction
+TF-IDF algorithm,
+Named-entity recognition,
+Images search,
+Most frequent bigrams extraction,
 Sentence value 
